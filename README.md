@@ -2,6 +2,11 @@
 ### –M1–
 ## PROJET
 
+### Membres du groupe:
+- Zeina Al WAZZAN
+- Douha KARIM
+- Kenza SAAL
+
 Le but de ce projet est de réaliser, en binôme ou en trinôme, le site web du mastère
 apprentissage.
 
